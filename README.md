@@ -1,5 +1,9 @@
 # Calendar APP
 
+Aplicación realizada en el curso de React de cero a experto de Fernando Herrera
+
+
+
 
 ## Development pasos
 
